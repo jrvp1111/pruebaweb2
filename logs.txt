@@ -1,0 +1,17 @@
+commit 0185fe2a151afd3e77024ce18d6b88a62f0b4f47
+Author: Roberto <jrvp1111@gmail.com>
+Date:   Wed Jun 24 14:23:26 2015 -0600
+
+    agregar imagen de iphone6
+
+commit eef2d25c00b8d2056d685d0e62c13fe1350a355b
+Author: Roberto <jrvp1111@gmail.com>
+Date:   Wed Jun 24 14:06:44 2015 -0600
+
+    tercer commit
+
+commit 21e8a3cffc399a4988585c8bc618d6fb38cb8c2d
+Author: Roberto <jrvp1111@gmail.com>
+Date:   Wed Jun 24 13:53:36 2015 -0600
+
+    segundo commit
